@@ -1,0 +1,13 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "weights": [5, 5, 10, 5, 5, 5, 5, 1, 1, 3, 1, 2, 2, 1],
+                        "inputs": "create:cut_granite",
+                        "outputs": ["create:cut_andesite", "create:cut_diorite", "create:cut_granite", "create:cut_calcite", "create:cut_dripstone", "create:cut_deepslate", "create:cut_tuff", "create:cut_asurine", "create:cut_crimsite", "create:cut_limestone", "create:cut_ochrum", "create:cut_scoria", "create:cut_scorchia", "create:cut_veridium"]
+                  }
+                  
+            ]
+      }]
+}]

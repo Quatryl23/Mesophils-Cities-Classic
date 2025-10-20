@@ -1,0 +1,13 @@
+[
+  {
+        "processor_type": "mesophils_cities:special_rotation"
+  },
+  {
+  "processor_type": "mesophils_cities:block_variation",
+  "variation_groups": [{
+  "variations": [{
+  "outputs": "#minecraft:beds"
+  }]
+  }]
+  }
+]

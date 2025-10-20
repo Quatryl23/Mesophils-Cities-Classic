@@ -1,0 +1,5 @@
+[{
+    "processor_type": "mesophils_cities:instant_loot",
+    "targets": "minecraft:chiseled_bookshelf",
+    "loot_table": "mesophils_cities_classic:random_bookshelf"
+  }]

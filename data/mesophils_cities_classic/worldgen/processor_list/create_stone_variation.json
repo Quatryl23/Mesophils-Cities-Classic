@@ -1,0 +1,13 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "outputs": ["minecraft:granite", "minecraft:andesite", "minecraft:diorite", "minecraft:calcite", "minecraft:dripstone_block", "minecraft:deepslate", "minecraft:tuff", "create:asurine", "create:crimsite", "create:limestone", "create:ochrum", "create:scoria", "create:scorchia", "create:veridium"]
+                  },
+                  {
+                        "outputs": ["minecraft:granite", "minecraft:andesite", "minecraft:diorite", "minecraft:calcite", "minecraft:dripstone_block", "minecraft:deepslate", "minecraft:tuff", "create:asurine", "create:crimsite", "create:limestone", "create:ochrum", "create:scoria", "create:scorchia", "create:veridium"]
+                  }
+            ]
+      }]
+}]

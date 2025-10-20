@@ -1,0 +1,19 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "inputs": "minecraft:diorite",
+                        "outputs": ["minecraft:cobblestone", "minecraft:cobbled_deepslate", "minecraft:tuff", "minecraft:granite", "minecraft:andesite", "minecraft:diorite"]
+                  },
+                  {
+                        "inputs": "create:layered_diorite",
+                        "outputs": ["minecraft:smooth_stone", "create:layered_deepslate", "create:layered_tuff", "create:layered_granite", "create:layered_andesite", "create:layered_diorite"]
+                  },
+                  {
+                        "inputs": "create:cut_diorite",
+                        "outputs": ["minecraft:stone", "create:cut_deepslate", "create:cut_tuff", "create:cut_granite", "create:cut_andesite", "create:cut_diorite"]
+                  }
+            ]
+      }]
+}]

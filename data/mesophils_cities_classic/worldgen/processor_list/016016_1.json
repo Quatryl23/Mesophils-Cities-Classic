@@ -1,0 +1,32 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "inputs": "create:polished_cut_tuff",
+                        "outputs": ["create:polished_cut_tuff", "create:polished_cut_calcite", "create:polished_cut_dripstone"]
+                  },
+                  {
+                        "inputs": "minecraft:andesite_stairs",
+                        "outputs": ["minecraft:andesite_stairs", "minecraft:diorite_stairs", "minecraft:granite_stairs"]
+                  },
+                  {
+                        "inputs": "minecraft:polished_andesite_stairs",
+                        "outputs": ["minecraft:polished_andesite_stairs", "minecraft:polished_diorite_stairs", "minecraft:polished_granite_stairs"]
+                  },
+                  {
+                        "inputs": "minecraft:andesite_slab",
+                        "outputs": ["minecraft:andesite_slab", "minecraft:diorite_slab", "minecraft:granite_slab"]
+                  },
+                  {
+                        "inputs": "minecraft:andesite",
+                        "outputs": ["minecraft:andesite", "minecraft:diorite", "minecraft:granite"]
+                  },
+                  {
+                        "inputs": "minecraft:dead_bubble_coral_block",
+                        "outputs": ["minecraft:dead_bubble_coral_block", "minecraft:dead_horn_coral_block", "minecraft:dead_tube_coral_block"]
+                  }
+                  
+            ]
+      }]
+}]

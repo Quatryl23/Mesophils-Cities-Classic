@@ -1,0 +1,50 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "avoid_duplicates": true,
+            "variations": [
+                  {
+                        "inputs": ["minecraft:bamboo_mosaic", "minecraft:prismarine", "minecraft:purpur_block", "minecraft:smooth_red_sandstone", "minecraft:waxed_oxidized_cut_copper", "minecraft:end_stone_bricks"],
+                        "outputs": ["minecraft:bamboo_mosaic", "minecraft:prismarine", "minecraft:purpur_block", "minecraft:smooth_red_sandstone", "minecraft:dark_prismarine", "minecraft:red_nether_bricks", "minecraft:end_stone_bricks", "minecraft:stripped_mangrove_wood", "minecraft:waxed_oxidized_cut_copper", "create:waxed_copper_tiles", "create:cut_ochrum_bricks", "create:cut_crimsite"]
+                  },
+                  {
+                        "inputs": ["minecraft:bamboo_mosaic_stairs", "minecraft:prismarine_stairs", "minecraft:purpur_stairs", "minecraft:smooth_red_sandstone_stairs", "minecraft:waxed_oxidized_cut_copper_stairs", "minecraft:end_stone_brick_stairs"],
+                        "outputs": ["minecraft:bamboo_mosaic_stairs", "minecraft:prismarine_stairs", "minecraft:purpur_stairs", "minecraft:smooth_red_sandstone_stairs", "minecraft:dark_prismarine_stairs", "minecraft:red_nether_brick_stairs", "minecraft:end_stone_brick_stairs", "minecraft:mangrove_stairs", "minecraft:waxed_oxidized_cut_copper_stairs", "create:waxed_copper_tile_stairs", "create:cut_ochrum_brick_stairs", "create:cut_crimsite_stairs"]
+                  },
+                  {
+                        "inputs": ["minecraft:bamboo_door", "minecraft:warped_door", "minecraft:crimson_door", "minecraft:acacia_door"],
+                        "outputs": ["minecraft:bamboo_door", "minecraft:warped_door", "minecraft:crimson_door", "minecraft:acacia_door", "minecraft:warped_door", "minecraft:mangrove_door", "minecraft:birch_door", "minecraft:mangrove_door", "minecraft:warped_door", "minecraft:acacia_door", "minecraft:oak_door", "minecraft:mangrove_door"]
+                  }
+                  
+            ]
+      }, {
+            "variations": [
+            {
+                  "inputs": "create:small_calcite_brick_stairs",
+                  "outputs": ["create:small_andesite_brick_stairs", "create:small_diorite_brick_stairs", "create:small_granite_brick_stairs", "create:small_calcite_brick_stairs", "create:small_dripstone_brick_stairs", "create:small_deepslate_brick_stairs", "create:small_tuff_brick_stairs", "create:small_asurine_brick_stairs", "create:small_crimsite_brick_stairs", "create:small_limestone_brick_stairs", "create:small_ochrum_brick_stairs", "create:small_scoria_brick_stairs", "create:small_scorchia_brick_stairs", "create:small_veridium_brick_stairs"]
+            }, {
+                  "inputs": "create:small_calcite_bricks",
+                  "outputs": ["create:small_andesite_bricks", "create:small_diorite_bricks", "create:small_granite_bricks", "create:small_calcite_bricks", "create:small_dripstone_bricks", "create:small_deepslate_bricks", "create:small_tuff_bricks", "create:small_asurine_bricks", "create:small_crimsite_bricks", "create:small_limestone_bricks", "create:small_ochrum_bricks", "create:small_scoria_bricks", "create:small_scorchia_bricks", "create:small_veridium_bricks"]
+            }, {
+                  "inputs": "create:small_calcite_brick_slab",
+                  "outputs": ["create:small_andesite_brick_slab", "create:small_diorite_brick_slab", "create:small_granite_brick_slab", "create:small_calcite_brick_slab", "create:small_dripstone_brick_slab", "create:small_deepslate_brick_slab", "create:small_tuff_brick_slab", "create:small_asurine_brick_slab", "create:small_crimsite_brick_slab", "create:small_limestone_brick_slab", "create:small_ochrum_brick_slab", "create:small_scoria_brick_slab", "create:small_scorchia_brick_slab", "create:small_veridium_brick_slab"]
+            }, {
+                  "inputs": "create:cut_calcite_brick_stairs",
+                  "outputs": ["create:cut_andesite_brick_stairs", "create:cut_diorite_brick_stairs", "create:cut_granite_brick_stairs", "create:cut_calcite_brick_stairs", "create:cut_dripstone_brick_stairs", "create:cut_deepslate_brick_stairs", "create:cut_tuff_brick_stairs", "create:cut_asurine_brick_stairs", "create:cut_crimsite_brick_stairs", "create:cut_limestone_brick_stairs", "create:cut_ochrum_brick_stairs", "create:cut_scoria_brick_stairs", "create:cut_scorchia_brick_stairs", "create:cut_veridium_brick_stairs"]
+            }, {
+                  "inputs": "create:cut_calcite_brick_wall",
+                  "outputs": ["create:cut_andesite_brick_wall", "create:cut_diorite_brick_wall", "create:cut_granite_brick_wall", "create:cut_calcite_brick_wall", "create:cut_dripstone_brick_wall", "create:cut_deepslate_brick_wall", "create:cut_tuff_brick_wall", "create:cut_asurine_brick_wall", "create:cut_crimsite_brick_wall", "create:cut_limestone_brick_wall", "create:cut_ochrum_brick_wall", "create:cut_scoria_brick_wall", "create:cut_scorchia_brick_wall", "create:cut_veridium_brick_wall"]
+            }, {
+                  "inputs": "create:calcite_pillar",
+                  "outputs": ["create:andesite_pillar", "create:diorite_pillar", "create:granite_pillar", "create:calcite_pillar", "create:dripstone_pillar", "create:deepslate_pillar", "create:tuff_pillar", "create:asurine_pillar", "create:crimsite_pillar", "create:limestone_pillar", "create:ochrum_pillar", "create:scoria_pillar", "create:scorchia_pillar", "create:veridium_pillar"]
+            }, {
+                  "inputs": "create:polished_cut_calcite",
+                  "outputs": ["create:polished_cut_andesite", "create:polished_cut_diorite", "create:polished_cut_granite", "create:polished_cut_calcite", "create:polished_cut_dripstone", "create:polished_cut_deepslate", "create:polished_cut_tuff", "create:polished_cut_asurine", "create:polished_cut_crimsite", "create:polished_cut_limestone", "create:polished_cut_ochrum", "create:polished_cut_scoria", "create:polished_cut_scorchia", "create:polished_cut_veridium"]
+            }]
+            
+      }, {
+            "variations": [{
+                  "outputs": "#mesophils_cities_classic:full_block_windows"
+            }]
+      }]
+}]

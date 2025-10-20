@@ -1,0 +1,130 @@
+[
+    {
+        "processor_type": "mesophils_cities:block_variation",
+        "variation_groups": [{
+            "variations": [{
+            "outputs": "#mesophils_cities_classic:wooden_planks"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_slabs"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_stairs"
+            }, {
+            "outputs": "#mesophils_cities_classic:fences"
+            }, {
+            "outputs": "#mesophils_cities_classic:fence_gates"
+            }, {
+            "outputs": "#mesophils_cities_classic:lattice_fences"
+            }, {
+            "outputs": "#mesophils_cities_classic:lattice_fence_gates"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_doors"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_buttons"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_windows"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_pressure_plates"
+            }, {
+            "outputs": "#mesophils_cities_classic:chairs"
+            }, {
+            "outputs": "#mesophils_cities_classic:tables"
+            }, {
+            "outputs": "#mesophils_cities_classic:table_clothes"
+            }, {
+            "outputs": "#mesophils_cities_classic:desks"
+            }, {
+            "outputs": "#mesophils_cities_classic:drawers"
+            }, {
+            "outputs": "#mesophils_cities_classic:cutting_boards"
+            }, {
+            "outputs": "#mesophils_cities_classic:storage_jars"
+            }, {
+            "outputs": "#mesophils_cities_classic:kitchen_cabinetries"
+            }, {
+            "outputs": "#mesophils_cities_classic:kitchen_drawers"
+            }, {
+            "outputs": "#mesophils_cities_classic:kitchen_sinks"
+            }, {
+            "outputs": "#mesophils_cities_classic:kitchen_storage_cabinets"
+            }, {
+            "outputs": "#mesophils_cities_classic:storage_cabinets"
+            }, {
+            "outputs": "#mesophils_cities_classic:crates"
+            }, {
+            "outputs": "#mesophils_cities_classic:logs"
+            }, {
+            "outputs": "#mesophils_cities_classic:stripped_logs"
+            }, {
+            "outputs": "#mesophils_cities_classic:wood"
+            }, {
+            "outputs": "#mesophils_cities_classic:stripped_wood"
+            }, {
+            "outputs": "#mesophils_cities_classic:mailboxes"
+            }, {
+            "outputs": "#mesophils_cities_classic:trapdoors"
+            }, {
+            "outputs": "#mesophils_cities_classic:light_ceiling_fans"
+            }, {
+            "outputs": "#mesophils_cities_classic:dark_ceiling_fans"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_toilets"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_basins"
+            }, {
+            "outputs": "#mesophils_cities_classic:wooden_baths"
+            }],
+            "weights": [2, 2, 2, 1, 2, 3, 2, 4, 3, 1]
+        }, {
+            "variations": [{
+            "outputs": "#mesophils_cities_classic:beds"
+            }, {
+            "outputs": "#mesophils_cities_classic:wool"
+            }, {
+            "outputs": "#mesophils_cities_classic:carpets"
+            }, {
+            "outputs": "#mesophils_cities_classic:table_clothes"
+            }, {
+            "outputs": "#mesophils_cities_classic:candles"
+            }, {
+            "outputs": "#mesophils_cities_classic:banners"
+            }, {
+            "outputs": "#mesophils_cities_classic:colored_basins"
+            }, {
+            "outputs": "#mesophils_cities_classic:colored_baths"
+            }, {
+            "outputs": "#mesophils_cities_classic:colored_toilets"
+            }, {
+            "outputs": "#mesophils_cities_classic:lamps"
+            }, {
+            "outputs": "#mesophils_cities_classic:sofas"
+            }, {
+            "outputs": "#mesophils_cities_classic:stools"
+            }, {
+            "outputs": "#mesophils_cities_classic:coolers"
+            } , {
+            "outputs": "#mesophils_cities_classic:grills"
+            } , {
+            "outputs": "#mesophils_cities_classic:trampolines"
+            }],
+            "weights": [3, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 4, 2]
+        }, {
+            "variations": [{
+            "outputs": ["refurbished_furniture:light_electricity_generator", "refurbished_furniture:dark_electricity_generator"]
+            }, {
+            "outputs": ["refurbished_furniture:light_lightswitch", "refurbished_furniture:dark_lightswitch"]
+            }, {
+            "outputs": ["refurbished_furniture:light_ceiling_light", "refurbished_furniture:dark_ceiling_light"]
+            }, {
+            "outputs": ["refurbished_furniture:light_fridge", "refurbished_furniture:dark_fridge"]
+            }, {
+            "outputs": ["refurbished_furniture:light_freezer", "refurbished_furniture:dark_freezer"]
+            }, {
+            "outputs": ["refurbished_furniture:light_stove", "refurbished_furniture:dark_stove"]
+            }, {
+            "outputs": ["refurbished_furniture:light_toaster", "refurbished_furniture:dark_toaster"]
+            }, {
+            "outputs": ["refurbished_furniture:light_microwave", "refurbished_furniture:dark_microwave"]
+            }]
+        }]
+    }
+]

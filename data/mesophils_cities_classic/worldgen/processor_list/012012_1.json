@@ -1,0 +1,126 @@
+[{
+  "processor_type":"mesophils_cities:special_rotation"
+}, {
+"processor_type": "mesophils_cities:block_variation",
+"variation_groups": [
+  {
+    "variations": [
+      {
+        "inputs": "minecraft:smooth_sandstone",
+        "outputs": ["minecraft:smooth_sandstone", "minecraft:smooth_red_sandstone"],
+        "weights": [2, 1]
+      }
+    ]
+  },
+  {
+    "variations": [
+      {
+        "inputs": "miencraft:red_sandstone",
+        "outputs": ["minecraft:sandstone", "minecraft:red_sandstone"],
+        "weights": [1, 2]
+      }
+    ]
+  },
+  {
+    "variations": [{
+    "inputs": "minecraft:jungle_planks",
+    "outputs": "#mesophils_cities_classic:wooden_planks"
+    }, {
+    "inputs": "minecraft:jungle_slab",
+    "outputs": "#mesophils_cities_classic:wooden_slabs"
+    }, {
+    "inputs": "minecraft:jungle_door",
+    "outputs": "#mesophils_cities_classic:wooden_doors"
+    }, {
+    "inputs": "refurbished_furniture:jungle_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+    }, {
+    "inputs": "refurbished_furniture:jungle_table",
+    "outputs": "#mesophils_cities_classic:tables"
+    }, {
+    "inputs": "refurbished_furniture:jungle_desk",
+    "outputs": "#mesophils_cities_classic:desks"
+    }, {
+    "inputs": "refurbished_furniture:jungle_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+    }, {
+    "inputs": "refurbished_furniture:jungle_kitchen_cabinetry",
+    "outputs": "#mesophils_cities_classic:kitchen_cabinetries"
+    }, {
+    "inputs": "refurbished_furniture:jungle_kitchen_drawer",
+    "outputs": "#mesophils_cities_classic:kitchen_drawers"
+    }, {
+    "inputs": "refurbished_furniture:jungle_kitchen_sink",
+    "outputs": "#mesophils_cities_classic:kitchen_sinks"
+    }, {
+    "inputs": "refurbished_furniture:jungle_storage_cabinet",
+    "outputs": "#mesophils_cities_classic:storage_cabinets"
+    }, {
+    "inputs": "refurbished_furniture:jungle_toilet",
+    "outputs": "#mesophils_cities_classic:wooden_toilets"
+    }, {
+    "inputs": "refurbished_furniture:jungle_basin",
+    "outputs": "#mesophils_cities_classic:wooden_basins"
+    }],
+    "weights": [2, 2, 2, 1, 2, 3, 2, 4, 3, 1]
+  }, {
+    "variations": [{
+    "inputs": "minecraft:white_bed",
+    "outputs": "#mesophils_cities_classic:beds"
+    }, {
+    "inputs": "minecraft:white_wool",
+    "outputs": "#mesophils_cities_classic:wool"
+    }, {
+    "inputs": "minecraft:white_carpet",
+    "outputs": "#mesophils_cities_classic:carpets"
+    }, {
+    "inputs": "minecraft:white_banner",
+    "outputs": "#mesophils_cities_classic:banners"
+    }, {
+    "inputs": "refurbished_furniture:white_basin",
+    "outputs": "#mesophils_cities_classic:colored_basins"
+    }, {
+    "inputs": "refurbished_furniture:white_bath",
+    "outputs": "#mesophils_cities_classic:colored_baths"
+    }, {
+    "inputs": "refurbished_furniture:white_toilet",
+    "outputs": "#mesophils_cities_classic:colored_toilets"
+    }, {
+    "inputs": "refurbished_furniture:white_lamp",
+    "outputs": "#mesophils_cities_classic:lamps"
+    }, {
+    "inputs": "refurbished_furniture:white_sofa",
+    "outputs": "#mesophils_cities_classic:sofas"
+    }, {
+    "inputs": "refurbished_furniture:white_stool",
+    "outputs": "#mesophils_cities_classic:stools"
+    }, {
+    "inputs": "refurbished_furniture:white_cooler",
+    "outputs": "#mesophils_cities_classic:coolers"
+    }]
+  }, {
+    "variations": [{
+    
+    "outputs": ["refurbished_furniture:light_electricity_generator", "refurbished_furniture:dark_electricity_generator"]
+    }, { 
+    "outputs": ["refurbished_furniture:light_lightswitch", "refurbished_furniture:dark_lightswitch"]
+    }, {
+    "outputs": ["refurbished_furniture:light_ceiling_light", "refurbished_furniture:dark_ceiling_light"]
+    }, {
+    "outputs": ["refurbished_furniture:light_fridge", "refurbished_furniture:dark_fridge"]
+    }, {
+    "outputs": ["refurbished_furniture:light_freezer", "refurbished_furniture:dark_freezer"]
+    }, {
+    "outputs": ["refurbished_furniture:light_stove", "refurbished_furniture:dark_stove"]
+    }, {
+    "outputs": ["refurbished_furniture:light_toaster", "refurbished_furniture:dark_toaster"]
+    }, {
+    "outputs": ["refurbished_furniture:light_microwave", "refurbished_furniture:dark_microwave"]
+    }]
+  }, {
+    "variations": [{
+      "inputs": "minecraft:light_blue_stained_glass_pane",
+      "outputs": "#mesophils_cities_classic:glass_panes"
+    }]
+  }
+    ]}]

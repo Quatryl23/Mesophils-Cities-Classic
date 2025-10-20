@@ -1,0 +1,32 @@
+[
+
+{
+"processor_type": "mesophils_cities:block_variation",
+"variation_groups": [{
+"variations": [
+          {"outputs":[
+            "create:cut_diorite",
+            "create:cut_andesite",
+            "create:cut_dripstone",
+            "create:cut_tuff",
+            "create:cut_ochrum",
+            "create:cut_limestone"
+          ]},
+          {"outputs":[   
+            "create:cut_diorite_stairs",
+            "create:cut_andesite_stairs",
+            "create:cut_dripstone_stairs",
+            "create:cut_tuff_stairs",
+            "create:cut_ochrum_stairs",
+            "create:cut_limestone_stairs"
+          ]},
+          {"outputs":[
+            "create:cut_diorite_slab",
+            "create:cut_andesite_slab",
+            "create:cut_dripstone_slab",
+            "create:cut_tuff_slab",
+            "create:cut_ochrum_slab",
+            "create:cut_limestone_slab"
+          ]}]     
+}]
+}]

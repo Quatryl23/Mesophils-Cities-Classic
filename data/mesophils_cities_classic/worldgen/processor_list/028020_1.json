@@ -1,0 +1,28 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+            {
+                  "inputs": "minecraft:red_nether_brick_stairs",
+                  "outputs": ["minecraft:deepslate_brick_stairs", "minecraft:red_nether_brick_stairs", "minecraft:dark_oak_stairs", "create:cut_ochrum_brick_stairs"]
+            }, {
+                  "inputs": "minecraft:red_nether_bricks",
+                  "outputs": ["minecraft:deepslate_bricks", "minecraft:red_nether_bricks", "minecraft:dark_oak_planks", "create:cut_ochrum_bricks"]
+            }, {
+                  "inputs": "minecraft:red_nether_brick_slab",
+                  "outputs": ["minecraft:deepslate_brick_slab", "minecraft:red_nether_brick_slab", "minecraft:dark_oak_slab", "create:cut_ochrum_brick_slab"]
+            }, {
+                  "inputs": "minecraft:nether_bricks",
+                  "outputs": ["minecraft:polished_blackstone_bricks", "minecraft:nether_bricks", "minecraft:spruce_planks", "create:cut_limestone_bricks"]
+            }, {
+                  "inputs": "minecraft:red_nether_brick_wall",
+                  "outputs": ["minecraft:deepslate_brick_wall", "minecraft:red_nether_brick_wall", "minecraft:dark_oak_fence", "create:cut_ochrum_brick_wall"]
+            }, {
+                  "inputs": "create:mangrove_window",
+                  "outputs": ["create:industrial_iron_window", "create:mangrove_window", "create:spruce_window", "create:birch_window"]
+            }, { 
+                  "inputs": "minecraft:mangrove_door",
+                  "outputs": ["create:train_door", "minecraft:mangrove_door", "minecraft:spruce_door", "minecraft:birch_door"]
+            }]
+      }]
+}]

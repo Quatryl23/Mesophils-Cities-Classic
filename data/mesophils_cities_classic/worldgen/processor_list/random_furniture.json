@@ -1,0 +1,168 @@
+[
+    {
+        "processor_type": "mesophils_cities:block_variation",
+        "variation_groups": [{
+            "variations": [{
+            "inputs": "minecraft:oak_planks",
+            "outputs": "#mesophils_cities_classic:wooden_planks"
+            }, {
+            "inputs": "minecraft:oak_slab",
+            "outputs": "#mesophils_cities_classic:wooden_slabs"
+            }, {
+            "inputs": "minecraft:oak_stairs",
+            "outputs": "#mesophils_cities_classic:wooden_stairs"
+            }, {
+            "inputs": "minecraft:oak_fence",
+            "outputs": "#mesophils_cities_classic:fences"
+            }, {
+            "inputs": "minecraft:oak_fence_gate",
+            "outputs": "#mesophils_cities_classic:fence_gates"
+            }, {
+            "inputs": "refurbished_furniture:oak_lattice_fence",
+            "outputs": "#mesophils_cities_classic:lattice_fences"
+            }, {
+            "inputs": "refurbished_furniture:oak_lattice_fence_gate",
+            "outputs": "#mesophils_cities_classic:lattice_fence_gates"
+            }, {
+            "inputs": "minecraft:oak_door",
+            "outputs": "#mesophils_cities_classic:wooden_doors"
+            }, {
+            "inputs": "minecraft:oak_button",
+            "outputs": "#mesophils_cities_classic:wooden_buttons"
+            }, {
+            "inputs": "refurbished_furniture:oak_chair",
+            "outputs": "#mesophils_cities_classic:chairs"
+            }, {
+            "inputs": "refurbished_furniture:oak_table",
+            "outputs": "#mesophils_cities_classic:tables"
+            }, {
+            "inputs": "refurbished_furniture:oak_desk",
+            "outputs": "#mesophils_cities_classic:desks"
+            }, {
+            "inputs": "refurbished_furniture:oak_drawer",
+            "outputs": "#mesophils_cities_classic:drawers"
+            }, {
+            "inputs": "refurbished_furniture:oak_cutting_board",
+            "outputs": "#mesophils_cities_classic:cutting_boards"
+            }, {
+            "inputs": "refurbished_furniture:oak_storage_jar",
+            "outputs": "#mesophils_cities_classic:storage_jars"
+            }, {
+            "inputs": "refurbished_furniture:oak_kitchen_cabinetry",
+            "outputs": "#mesophils_cities_classic:kitchen_cabinetries"
+            }, {
+            "inputs": "refurbished_furniture:oak_kitchen_drawer",
+            "outputs": "#mesophils_cities_classic:kitchen_drawers"
+            }, {
+            "inputs": "refurbished_furniture:oak_kitchen_sink",
+            "outputs": "#mesophils_cities_classic:kitchen_sinks"
+            }, {
+            "inputs": "refurbished_furniture:oak_kitchen_storage_cabinet",
+            "outputs": "#mesophils_cities_classic:kitchen_storage_cabinets"
+            }, {
+            "inputs": "refurbished_furniture:oak_storage_cabinet",
+            "outputs": "#mesophils_cities_classic:storage_cabinets"
+            }, {
+            "inputs": "refurbished_furniture:oak_crate",
+            "outputs": "#mesophils_cities_classic:crates"
+            }, {
+            "inputs": "minecraft:oak_log",
+            "outputs": "#mesophils_cities_classic:logs"
+            }, {
+            "inputs": "minecraft:stripped_oak_log",
+            "outputs": "#mesophils_cities_classic:stripped_logs"
+            }, {
+            "inputs": "minecraft:oak_wood",
+            "outputs": "#mesophils_cities_classic:wood"
+            }, {
+            "inputs": "minecraft:stripped_oak_wood",
+            "outputs": "#mesophils_cities_classic:stripped_wood"
+            }, {
+            "inputs": "refurbished_furniture:oak_mailbox",
+            "outputs": "#mesophils_cities_classic:mailboxes"
+            }, {
+            "inputs": "minecraft:oak_trapdoor",
+            "outputs": "#mesophils_cities_classic:trapdoors"
+            }, {
+            "inputs": "refurbished_furniture:oak_light_ceiling_fan",
+            "outputs": "#mesophils_cities_classic:light_ceiling_fans"
+            }, {
+            "inputs": "refurbished_furniture:oak_dark_ceiling_fan",
+            "outputs": "#mesophils_cities_classic:dark_ceiling_fans"
+            }, {
+            "inputs": "refurbished_furniture:oak_toilet",
+            "outputs": "#mesophils_cities_classic:wooden_toilets"
+            }, {
+            "inputs": "refurbished_furniture:oak_basin",
+            "outputs": "#mesophils_cities_classic:wooden_basins"
+            }, {
+            "inputs": "refurbished_furniture:oak_bath",
+            "outputs": "#mesophils_cities_classic:wooden_baths"
+            }],
+            "weights": [2, 2, 2, 1, 2, 3, 2, 4, 3, 1]
+        }, {
+            "variations": [{
+            "inputs": "minecraft:white_bed",
+            "outputs": "#mesophils_cities_classic:beds"
+            }, {
+            "inputs": "minecraft:white_wool",
+            "outputs": "#mesophils_cities_classic:wool"
+            }, {
+            "inputs": "minecraft:white_carpet",
+            "outputs": "#mesophils_cities_classic:carpets"
+            }, {
+            "inputs": "minecraft:white_candle",
+            "outputs": "#mesophils_cities_classic:candles"
+            }, {
+            "inputs": "create:white_table_cloth",
+            "outputs": "#mesophils_cities_classic:table_clothes"
+            }, {
+            "inputs": "minecraft:white_banner",
+            "outputs": "#mesophils_cities_classic:banners"
+            }, {
+            "inputs": "refurbished_furniture:white_basin",
+            "outputs": "#mesophils_cities_classic:colored_basins"
+            }, {
+            "inputs": "refurbished_furniture:white_bath",
+            "outputs": "#mesophils_cities_classic:colored_baths"
+            }, {
+            "inputs": "refurbished_furniture:white_toilet",
+            "outputs": "#mesophils_cities_classic:colored_toilets"
+            }, {
+            "inputs": "refurbished_furniture:white_lamp",
+            "outputs": "#mesophils_cities_classic:lamps"
+            }, {
+            "inputs": "refurbished_furniture:white_sofa",
+            "outputs": "#mesophils_cities_classic:sofas"
+            }, {
+            "inputs": "refurbished_furniture:white_stool",
+            "outputs": "#mesophils_cities_classic:stools"
+            }, {
+            "inputs": "refurbished_furniture:white_cooler",
+            "outputs": "#mesophils_cities_classic:coolers"
+            } , {
+            "inputs": "refurbished_furniture:white_grill",
+            "outputs": "#mesophils_cities_classic:grills"
+            }],
+            "weights": [3, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 4, 2]
+        }, {
+            "variations": [{
+            "outputs": ["refurbished_furniture:light_electricity_generator", "refurbished_furniture:dark_electricity_generator"]
+            }, {
+            "outputs": ["refurbished_furniture:light_lightswitch", "refurbished_furniture:dark_lightswitch"]
+            }, {
+            "outputs": ["refurbished_furniture:light_ceiling_light", "refurbished_furniture:dark_ceiling_light"]
+            }, {
+            "outputs": ["refurbished_furniture:light_fridge", "refurbished_furniture:dark_fridge"]
+            }, {
+            "outputs": ["refurbished_furniture:light_freezer", "refurbished_furniture:dark_freezer"]
+            }, {
+            "outputs": ["refurbished_furniture:light_stove", "refurbished_furniture:dark_stove"]
+            }, {
+            "outputs": ["refurbished_furniture:light_toaster", "refurbished_furniture:dark_toaster"]
+            }, {
+            "outputs": ["refurbished_furniture:light_microwave", "refurbished_furniture:dark_microwave"]
+            }]
+        }]
+    }
+]

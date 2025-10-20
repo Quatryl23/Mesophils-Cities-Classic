@@ -1,0 +1,11 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "inputs": "minecraft:packed_mud",
+                        "outputs": ["minecraft:packed_mud", "minecraft:soul_soil", "minecraft:dirt"]
+                  }
+            ]
+      }]
+}]

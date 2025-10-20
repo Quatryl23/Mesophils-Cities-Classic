@@ -1,0 +1,28 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "inputs": "minecraft:andesite",
+                        "outputs": ["minecraft:deepslate", "minecraft:tuff", "minecraft:granite", "minecraft:andesite", "minecraft:diorite"]
+                  },
+                  {
+                        "inputs": "create:layered_andesite",
+                        "outputs": ["create:layered_deepslate", "create:layered_tuff", "create:layered_granite", "create:layered_andesite", "create:layered_diorite"]
+                  },
+                  {
+                        "inputs": "minecraft:polished_andesite",
+                        "outputs": ["minecraft:polished_deepslate", "create:polished_cut_tuff", "minecraft:polished_granite", "minecraft:polished_andesite", "minecraft:polished_diorite"]
+                  },
+                  {
+                        "inputs": "create:polished_cut_andesite_stairs",
+                        "outputs": ["create:polished_cut_deepslate_stairs", "create:polished_cut_tuff_stairs", "create:polished_cut_granite_stairs", "create:polished_cut_andesite_stairs", "create:polished_cut_diorite_stairs"]
+                  },
+                  {
+                        "inputs": "create:andesite_pillar",
+                        "outputs": ["create:deepslate_pillar", "create:tuff_pillar", "create:granite_pillar", "create:andesite_pillar", "create:diorite_pillar"]
+                  }
+                  
+            ]
+      }]
+}]

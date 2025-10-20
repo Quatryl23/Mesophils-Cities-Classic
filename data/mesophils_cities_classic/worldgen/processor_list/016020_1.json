@@ -1,0 +1,31 @@
+[{
+      "processor_type": "mesophils_cities:block_variation",
+      "variation_groups": [{
+            "variations": [
+                  {
+                        "inputs": "minecraft:deepslate_bricks",
+                        "outputs": ["minecraft:deepslate_bricks", "create:cut_tuff_bricks", "create:cut_deepslate_bricks", "create:cut_scoria_bricks", "create:cut_limestone_bricks", "minecraft:polished_blackstone_bricks"]
+                  },
+                  {
+                        "inputs": "minecraft:polished_deepslate_wall",
+                        "outputs": ["minecraft:polished_deepslate_wall", "create:polished_cut_tuff_wall", "minecraft:polished_deepslate_wall", "create:polished_cut_scoria_wall", "create:polished_cut_limestone_wall", "minecraft:polished_blackstone_wall"]
+                  }
+                  
+            ]
+      }, {
+            "variations": [
+                  {
+                        "inputs": "minecraft:end_stone_brick_slab",
+                        "outputs": ["minecraft:end_stone_brick_slab", "minecraft:mud_brick_slab", "minecraft:stone_brick_slab"]
+                  },
+                  {
+                        "inputs": "minecraft:end_stone_bricks",
+                        "outputs": ["minecraft:end_stone_bricks", "minecraft:mud_bricks", "minecraft:stone_bricks"]
+                  },
+                  {
+                        "inputs": "minecraft:end_stone_brick_stairs",
+                        "outputs": ["minecraft:end_stone_brick_stairs", "minecraft:mud_brick_stairs", "minecraft:stone_brick_stairs"]
+                  }
+            ]
+      }]
+}]

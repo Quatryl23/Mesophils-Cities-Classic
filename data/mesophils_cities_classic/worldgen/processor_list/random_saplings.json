@@ -1,0 +1,8 @@
+[{
+    "processor_type": "mesophils_cities:block_variation",
+    "variation_groups": [{
+        "variations": [{
+            "outputs": "#minecraft:saplings"
+        }]
+    }]
+}]

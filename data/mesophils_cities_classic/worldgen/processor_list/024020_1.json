@@ -1,0 +1,316 @@
+[{
+  "processor_type":"mesophils_cities:special_rotation"
+}, {
+"processor_type": "mesophils_cities:block_variation",
+"variation_groups": [{
+  "variations": [{
+    "inputs": "minecraft:purple_terracotta",
+    "outputs": "#minecraft:terracotta"
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:oak_planks",
+    "outputs": "#mesophils_cities_classic:wooden_planks"
+  }, {
+    "inputs":  "minecraft:oak_stairs",
+    "outputs": "#mesophils_cities_classic:wooden_stairs"
+  }, {
+    "inputs": "minecraft:oak_slab",
+    "outputs": "#mesophils_cities_classic:wooden_slabs"
+  }, {
+    "inputs": "minecraft:oak_fence",
+    "outputs": "#mesophils_cities_classic:fences"
+  }, {
+    "inputs": "refurbished_furniture:oak_storage_cabinet",
+    "outputs": "#mesophils_cities_classic:storage_cabinets"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:oak_kitchen_cabinetry",
+    "outputs": "#mesophils_cities_classic:kitchen_cabinetries"
+  }, {
+    "inputs": "refurbished_furniture:oak_kitchen_drawer",
+    "outputs": "#mesophils_cities_classic:kitchen_drawers"
+  }, {
+    "inputs": "refurbished_furniture:oak_kitchen_storage_cabinet",
+    "outputs": "#mesophils_cities_classic:kitchen_storage_cabinets"
+  }, {
+    "inputs": "refurbished_furniture:oak_kitchen_sink",
+    "outputs": "#mesophils_cities_classic:kitchen_sinks"
+  }, {
+    "inputs": "refurbished_furniture:oak_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:birch_table",
+    "outputs": "#mesophils_cities_classic:tables"
+  }, {
+    "inputs": "refurbished_furniture:birch_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:oak_storage_jar",
+    "outputs": "#mesophils_cities_classic:storage_jars"
+  }, {
+    "inputs": "refurbished_furniture:oak_cutting_board",
+    "outputs": "#mesophils_cities_classic:cutting_boards"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:oak_toilet",
+    "outputs": "#mesophils_cities_classic:wooden_toilets"
+  }, {
+    "inputs": "refurbished_furniture:oak_basin",
+    "outputs": "#mesophils_cities_classic:wooden_basins"
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:oak_door",
+    "outputs": [
+    "minecraft:oak_door",
+    "minecraft:jungle_door",      
+    "minecraft:acacia_door",
+    "minecraft:bamboo_door",
+    "minecraft:cherry_door",
+    "create:framed_glass_door"
+    ]
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:birch_door",
+    "outputs": [
+    "minecraft:birch_door",
+    "minecraft:mangrove_door",      
+    "minecraft:spruce_door",
+    "minecraft:dark_oak_door",
+    "minecraft:crimson_door",
+    "minecraft:warped_door"
+    ]
+  }]
+}, {
+  "variations": [{
+    "inputs": "create:oak_window",
+    "outputs": [
+    "create:oak_window",
+    "create:spruce_window",      
+    "create:birch_window",
+    "create:jungle_window",
+    "create:acacia_window",
+    "create:dark_oak_window",
+    "create:cherry_window",
+    "create:bamboo_window"
+    ]
+}]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:birch_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+  }, {
+    "inputs": "refurbished_furniture:birch_desk",
+    "outputs": "#mesophils_cities_classic:desks"
+  }]
+}, {
+  "variations": [{
+    "inputs": ["minecraft:white_carpet", "minecraft:black_carpet", "minecraft:yellow_carpet"],
+    "outputs": "#mesophils_cities_classic:carpets"
+  }, {
+    "inputs": ["refurbished_furniture:white_stool", "refurbished_furniture:black_stool", "refurbished_furniture:yellow_stool"],
+    "outputs": "#mesophils_cities_classic:stools"
+  }, {
+    "inputs": ["refurbished_furniture:white_sofa", "refurbished_furniture:black_sofa", "refurbished_furniture:yellow_sofa"],
+    "outputs": "#mesophils_cities_classic:sofas"
+  }]
+}, {
+  "variations": [{
+    "inputs": ["minecraft:white_banner", "minecraft:red_banner"],
+    "outputs": "#mesophils_cities_classic:banners"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:green_lamp",
+    "outputs": "#mesophils_cities_classic:lamps"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:white_cooler",
+    "outputs": "#mesophils_cities_classic:coolers"
+  }]
+}, {
+  "variations": [{
+    "inputs": ["minecraft:white_bed", "minecraft:light_blue_bed", "minecraft:red_bed", "minecraft:yellow_bed", "minecraft:purple_bed"],
+    "outputs": "#mesophils_cities_classic:beds"
+  }, {
+    "inputs": ["refurbished_furniture:white_lamp", "refurbished_furniture:light_blue_lamp", "refurbished_furniture:red_lamp", "refurbished_furniture:yellow_lamp", "refurbished_furniture:purple_lamp"],
+    "outputs": "#mesophils_cities_classic:lamps"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:oak_desk",
+    "outputs": "#mesophils_cities_classic:desks"
+  }, {
+    "inputs": "refurbished_furniture:oak_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:acacia_table",
+    "outputs": "#mesophils_cities_classic:tables"
+  }, {
+    "inputs": "refurbished_furniture:acacia_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:spruce_table",
+    "outputs": "#mesophils_cities_classic:tables"
+  }, {
+    "inputs": "refurbished_furniture:spruce_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+  }, {
+    "inputs": "refurbished_furniture:spruce_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+  }]
+  }, {
+  "variations": [{
+    "inputs": "refurbished_furniture:dark_fridge",
+    "outputs": "refurbished_furniture:light_fridge"
+  }, {
+    "inputs": "refurbished_furniture:dark_toaster",
+    "outputs": "refurbished_furniture:light_toaster"
+  }, {
+    "inputs": "refurbished_furniture:dark_stove",
+    "outputs": "refurbished_furniture:light_stove"
+  }, {
+    "inputs": "refurbished_furniture:dark_range_hood",
+    "outputs": "refurbished_furniture:light_range_hood"
+  }, {
+    "inputs": "refurbished_furniture:dark_microwave",
+    "outputs": "refurbished_furniture:light_microwave"
+  }],
+    "ignore_chance": 0.6
+}, {
+  "variations": [{
+    "inputs": "minecraft:dark_oak_trapdoor",
+    "outputs": "minecraft:spruce_trapdoor"
+  }],
+  "ignore_chance": 0.6
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:dark_ceiling_light",
+    "outputs": "refurbished_furniture:light_ceiling_light"
+  }, {
+    "inputs": "refurbished_furniture:dark_electricity_generator",
+    "outputs": "refurbished_furniture:light_electricity_generator"
+  }, {
+    "inputs": "refurbished_furniture:dark_lightswitch",
+    "outputs": "refurbished_furniture:light_lightswitch"
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:acacia_trapdoor",
+    "outputs": "#mesophils_cities_classic:trapdoors"
+  }, {
+    "inputs": "refurbished_furniture:acacia_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+  }, {
+    "inputs": "refurbished_furniture:stripped_acacia_log",
+    "outputs": "#mesophils_cities_classic:stripped_logs"
+  }]
+}, {
+  "variations": [{
+    "inputs": "refurbished_furniture:dark_oak_storage_cabinet",
+    "outputs": "#mesophils_cities_classic:storage_cabinets"
+  }, {
+    "inputs": "refurbished_furniture:dark_oak_desk",
+    "outputs": "#mesophils_cities_classic:desks"
+  }, {
+    "inputs": "refurbished_furniture:dark_oak_chair",
+    "outputs": "#mesophils_cities_classic:chairs"
+  }, {
+    "inputs": "minecraft:dark_oak_trapdoor",
+    "outputs": "#mesophils_cities_classic:trapdoors"
+  }, {
+    "inputs": "refurbished_furniture:dark_oak_drawer",
+    "outputs": "#mesophils_cities_classic:drawers"
+  }]
+}, {
+  "variations": [{
+    "inputs": ["refurbished_furniture:oak_crate", "refurbished_furniture:jungle_crate"],
+    "outputs": "#mesophils_cities_classic:crates"
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:oak_button",
+    "outputs": "#minecraft:buttons"
+  }]
+}, {
+  "variations": [{
+    "inputs": "minecraft:smooth_sandstone",
+    "outputs": ["minecraft:smooth_sandstone", "minecraft:smooth_quartz", "create:cut_calcite", "create:cut_limestone"]
+  }, {
+    "inputs": "minecraft:smooth_sandstone_stairs",
+    "outputs": ["minecraft:smooth_sandstone_stairs", "minecraft:smooth_quartz_stairs", "create:cut_calcite_stairs", "create:cut_limestone_stairs"]
+  }]
+}, {
+  "variations": [{
+    "inputs": "create:layered_andesite",
+    "outputs": "create:layered_asurine"
+  }],
+  "ignore_chance": 0.95
+}, {
+  "variations": [{
+    "inputs": "create:ornate_iron_window_pane",
+    "outputs": ["create:ornate_iron_window_pane", "create:industrial_iron_window_pane", "create:warped_window_pane", "create:crimson_window_pane"]
+  }],
+  "weights": [2, 2, 1, 1]
+}, {
+  "variations": [{
+     "inputs": ["refurbished_furniture:oak_mail_box"],
+    "outputs": "#mesophils_cities_classic:mailboxes"
+  }]
+}, {
+  "variations": [{
+    "inputs": "create:polished_cut_granite_wall",
+    "outputs": ["create:polished_cut_granite_wall", "create:polished_cut_andesite_wall", "create:polished_cut_tuff_wall", "create:polished_cut_diorite_wall", "create:polished_cut_dripstone_wall"]
+  }, {
+    "inputs": "create:cut_granite_stairs",
+    "outputs": ["create:cut_granite_stairs", "create:cut_andesite_stairs", "create:cut_tuff_stairs", "create:cut_diorite_stairs", "create:cut_dripstone_stairs"]
+  }, {
+    "inputs": "create:cut_granite_slab",
+    "outputs": ["create:cut_granite_slab", "create:cut_andesite_slab", "create:cut_tuff_slab", "create:cut_diorite_slab", "create:cut_dripstone_slab"]
+  }, {
+    "inputs": "create:layered_granite",
+    "outputs": ["create:layered_granite", "create:layered_andesite", "create:layered_tuff", "create:layered_diorite", "create:layered_dripstone"]
+  }],
+  "weights": [2, 1, 1, 1, 2]
+}, {
+  "variations": [{
+    "inputs": "create:polished_cut_deepslate_stairs",
+    "outputs": ["minecraft:brick_stairs", "minecraft:mud_brick_stairs", "create:polished_cut_deepslate_stairs", "create:polished_cut_deepslate_stairs", "create:polished_cut_scorchia_stairs", "create:polished_cut_scorchia_stairs"]
+  }, {
+    "inputs": "create:cut_deepslate",
+    "outputs": ["create:cut_deepslate", "minecraft:packed_mud", "create:cut_deepslate", "create:cut_deepslate", "create:cut_scorchia", "create:cut_scorchia"]
+  }, {
+    "inputs": "minecraft:deepslate_tiles",
+    "outputs": ["minecraft:bricks", "minecraft:mud_bricks", "minecraft:deepslate_bricks", "minecraft:deepslate_tiles", "create:small_scorchia_bricks", "create:cut_scorchia_bricks"]
+  }],
+  "weights": [1, 1, 2, 3, 1, 1]
+}, {
+  "variations": [{
+    "inputs": "create:small_scoria_brick_stairs",
+    "outputs": ["create:small_scoria_brick_stairs", "create:small_dripstone_brick_stairs", "create:small_crimsite_brick_stairs"]
+  }, {
+    "inputs": "create:small_scoria_brick_slab",
+    "outputs": ["create:small_scoria_brick_slab", "create:small_dripstone_brick_slab", "create:small_crimsite_brick_slab"]
+  }, {
+    "inputs": "create:scoria_pillar",
+    "outputs": ["create:scoria_pillar", "create:dripstone_pillar", "create:crimsite_pillar"]
+  }]
+}]
+  },{
+    "processor_type": "mesophils_cities:instant_loot",
+    "targets": "minecraft:chiseled_bookshelf",
+    "loot_table": "mesophils_cities_classic:random_bookshelf"
+  }]
