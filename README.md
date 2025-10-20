@@ -3,6 +3,9 @@
 This is the repository for the Mesophil´s Cities Classic datapack, the first style pack for the [Mesophil´s Cities mod](https://github.com/Quatryl23/Mesophils-Cities).
 Here you can report bugs and have a look at the source code of the Mesophil´s Cities Classic datapack.
 
+# Downloads:
+### - [**CurseForge**](https://www.curseforge.com/minecraft/data-packs/mesophils-cities-classic)
+
 ## About the source code
 Note that the source code might not always be up to date.
 ### Current version: 0.1.0
