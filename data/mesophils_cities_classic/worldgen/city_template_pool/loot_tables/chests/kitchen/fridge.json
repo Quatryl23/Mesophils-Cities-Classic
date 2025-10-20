@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/fridge_meat"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/fridge_fruits"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/fridge_dairy"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/fridge_drinks"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:binomial",
+        "n": 1,
+        "p": 0.3
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/dishes"
+        }
+      ]
+    }
+  ]
+}

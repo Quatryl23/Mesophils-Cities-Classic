@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": {
+          "type": "minecraft:uniform",
+          "min": 1,
+          "max": {
+            "type": "minecraft:uniform",
+            "min": 1,
+            "max": 2
+          }
+        }
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/oak_wood",
+          "weight": 300
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/spruce_wood",
+          "weight": 200
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/jungle_wood",
+          "weight": 160
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/birch_wood",
+          "weight": 140
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/dark_oak_wood",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/acacia_wood",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/mangrove_wood",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/cherry_wood",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/bamboo_wood",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/crimson_wood",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/warped_wood",
+          "weight": 2
+        }
+      ]
+    }
+  ],
+  "functions": []
+}

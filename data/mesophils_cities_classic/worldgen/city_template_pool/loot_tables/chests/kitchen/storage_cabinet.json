@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/baking_ingredients",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/bread",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/drinks",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/fruits",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/plates",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/sweets",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/kitchen/tools",
+          "weight": 6
+        }
+      ]
+    }
+  ]
+}

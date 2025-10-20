@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:frying_pan",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "mesophils_cities_classic:cutting_boards",
+          "expand": true
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:knife",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:spatula",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "mesophils_cities_classic:storage_jars",
+          "expand": true
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glass_bottle",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bucket",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

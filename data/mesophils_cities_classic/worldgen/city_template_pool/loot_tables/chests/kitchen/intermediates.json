@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:raw_meatlovers_pizza",
+          "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:raw_vegetable_pizza",
+          "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:dough",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 0,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:dough",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 0,
+                "max": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

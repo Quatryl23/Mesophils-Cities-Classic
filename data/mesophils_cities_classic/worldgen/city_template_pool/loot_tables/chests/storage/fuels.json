@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/woodfree_fuels",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/wooden_fuels",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

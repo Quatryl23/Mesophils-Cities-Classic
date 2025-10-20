@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/paper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/paper_plus"
+        }
+      ]
+    }
+  ],
+  "functions": []
+}
