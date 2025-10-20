@@ -1,0 +1,22 @@
+{             
+    "values": ["create:acacia_window",
+                "create:bamboo_window",
+                "create:birch_window",
+                "create:cherry_window",
+                "create:crimson_window",
+                "create:dark_oak_window",
+                "create:jungle_window",
+                "create:mangrove_window",
+                "create:oak_window",
+                "create:spruce_window",
+                "create:warped_window",
+                "create:ornate_iron_window",
+                "create:industrial_iron_window",
+                "create:weathered_iron_window",
+                "create:framed_glass",
+                "create:horizontal_framed_glass",
+                "create:vertical_framed_glass",
+                "create:tiled_glass"
+
+    ]
+}

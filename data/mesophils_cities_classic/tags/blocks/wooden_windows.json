@@ -1,0 +1,13 @@
+{             
+    "values": ["create:acacia_window",
+                "create:birch_window",
+                "create:cherry_window",
+                "create:crimson_window",
+                "create:dark_oak_window",
+                "create:jungle_window",
+                "create:mangrove_window",
+                "create:oak_window",
+                "create:spruce_window",
+                "create:warped_window"
+    ]
+}
