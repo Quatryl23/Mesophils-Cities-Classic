@@ -1,0 +1,20 @@
+{
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/024020_1/living_room_1"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024020_1/living_room_2"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024020_1/living_room_3"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024020_1/living_room_4"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024020_1/living_room_5"
+        }
+        
+    ]
+}

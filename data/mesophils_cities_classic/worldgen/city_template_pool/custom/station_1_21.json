@@ -1,0 +1,14 @@
+{
+    "default_height": 61,
+    "processors": "mesophils_cities:rotate",
+    "directions": {
+        "north": {
+            "elements": [
+                {
+                    "location": "mesophils_cities_classic:station/station_1/station_1_21"
+
+                }
+            ]
+        }
+    }
+}

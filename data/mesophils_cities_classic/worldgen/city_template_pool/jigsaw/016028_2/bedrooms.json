@@ -1,0 +1,18 @@
+{ 
+    "add_parent_processors": true,
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/016028_2/bedroom_1"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/016028_2/bedroom_2"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/016028_2/bedroom_3"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/016028_2/bedroom_4"
+        }
+        
+    ]
+}

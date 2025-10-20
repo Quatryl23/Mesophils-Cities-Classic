@@ -1,0 +1,55 @@
+{
+    "add_parent_processors": true,
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_empty",
+            "weight": 20
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_1"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_2"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_3"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_4"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_5"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_6"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_7"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_8"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_9"
+        },
+        {
+            "processors": "mesophils_cities_classic:random_saplings",
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_10"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_11"
+        },
+        {
+            "add_parent_processors": false,
+            "processors": "mesophils_cities_classic:random_flowers", 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_12"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_13"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/024016_1/rooftop_14"
+        }
+        
+    ]
+}

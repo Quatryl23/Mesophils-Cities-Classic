@@ -1,0 +1,14 @@
+{
+    "default_height": 61,
+    "processors": "mesophils_cities:rotate",
+    "directions": {
+        "rotate": {
+            "elements": [
+                {
+                    "location": "mesophils_cities_classic:street/street_level_crossing_1"
+                }
+
+            ]
+        }
+    }
+}

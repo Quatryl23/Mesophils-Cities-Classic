@@ -1,0 +1,15 @@
+{
+    "processors": ["mesophils_cities_classic:random_furniture_all", "mesophils_cities:rotate"],
+    "directions": {
+        "rotate": {
+            "elements": [
+                {
+                    "processors": ["mesophils_cities_classic:random_terracotta", "mesophils_cities_classic:random_bookshelves"],
+                    "location": "mesophils_cities_classic:house/house_024032_1",
+                    "height": 63
+                }
+
+            ]
+        }
+    }
+}

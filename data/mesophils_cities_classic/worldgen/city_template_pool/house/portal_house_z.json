@@ -1,0 +1,14 @@
+{
+    "processors": "mesophils_cities:rotate",
+    "directions": {
+        "rotate": {
+            "elements": [
+                {
+                    "location": "mesophils_cities_classic:house/portal_house_z_1",
+                    "height": 62
+                }
+
+            ]
+        }
+    }
+}

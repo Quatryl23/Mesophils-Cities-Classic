@@ -1,0 +1,21 @@
+{
+    "processors": ["mesophils_cities_classic:random_furniture_all", "mesophils_cities_classic:merge_nodes"],  
+    "add_parent_processors": true,
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/032032_2/apartment_1",
+            "weight": 3
+        },
+        { 
+            "location": "mesophils_cities_classic:room/032032_2/apartment_2",
+            "weight": 3
+        },
+        { 
+            "location": "mesophils_cities_classic:room/032032_2/apartment_3",
+            "weight": 3
+        },
+        { 
+            "location": "mesophils_cities_classic:room/032032_2/apartment_4"
+        }
+    ]
+}

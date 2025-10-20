@@ -1,0 +1,24 @@
+{
+    "processors": "mesophils_cities_classic:random_furniture",  
+    "add_parent_processors": true,
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_1"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_2"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_3"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_4"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_5"
+        },
+        { 
+            "location": "mesophils_cities_classic:room/028024_1/apartment_6"
+        }
+    ]
+}

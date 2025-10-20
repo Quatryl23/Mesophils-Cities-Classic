@@ -1,0 +1,9 @@
+{
+    "processors": "mesophils_cities_classic:random_furniture",
+    "add_parent_processors": true,
+    "elements": [
+        { 
+            "location": "mesophils_cities_classic:room/028032_2/apartment_a_1"
+        }
+    ]
+}

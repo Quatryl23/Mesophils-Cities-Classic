@@ -1,0 +1,11 @@
+{
+    "elements": [{
+        "directions": {
+            "rotate": {
+                "0-0": "custom/bridge_side_1",
+                "1-0": "custom/bridge_main_1",
+                "2-0": "custom/bridge_opposite_side_1"
+            }
+        }
+    }]
+}
