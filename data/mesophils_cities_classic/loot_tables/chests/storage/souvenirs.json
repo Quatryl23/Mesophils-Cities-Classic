@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": {
+          "type": "minecraft:uniform",
+          "min": 1,
+          "max": 3
+        }
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/cave_souvenirs",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/end_souvenirs",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/nether_souvenirs",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/ocean_souvenirs",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "mesophils_cities_classic:chests/storage/overworld_souvenirs",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

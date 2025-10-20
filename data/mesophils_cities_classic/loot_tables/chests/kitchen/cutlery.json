@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:knife"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:spatula"
+        }
+      ]
+    }
+  ]
+}

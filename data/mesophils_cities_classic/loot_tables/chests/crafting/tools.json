@@ -1,0 +1,166 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0,
+        "max": 5
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 200,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shears",
+          "weight": 500
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:super_glue",
+          "weight": 200
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wooden_axe",
+              "weight": 50
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:stone_axe",
+              "weight": 50
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_axe",
+              "weight": 200
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:diamond_axe",
+              "weight": 10
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:netherite_axe",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:wooden_pickaxe",
+              "weight": 50
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:stone_pickaxe",
+              "weight": 50
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:iron_pickaxe",
+              "weight": 200
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:diamond_pickaxe",
+              "weight": 10
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:netherite_pickaxe",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:wrench",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refurbished_furniture:wrench",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brush",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "mesophils_cities_classic:toolboxes",
+          "expand": true,
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:goggles",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:sand_paper",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create:red_sand_paper",
+          "weight": 20
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:enchant_with_levels",
+          "levels": {
+            "type": "minecraft:uniform",
+            "min": 1,
+            "max": 20
+          },
+          "treasure": true,
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        },
+        {
+          "function": "minecraft:set_damage",
+          "damage": {
+            "type": "minecraft:uniform",
+            "min": 0,
+            "max": 1
+          },
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
