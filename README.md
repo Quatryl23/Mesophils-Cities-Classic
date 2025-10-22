@@ -8,7 +8,7 @@ Here you can report bugs and have a look at the source code of the Mesophil´s C
 
 ## About the source code
 Note that the source code might not always be up to date.
-### Current version: 0.1.0
+### Current version: 1.0.0
 
 # Gallery
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_2.png)
