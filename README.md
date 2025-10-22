@@ -5,6 +5,8 @@ Here you can report bugs and have a look at the source code of the Mesophil´s C
 
 # Downloads:
 ### - [**CurseForge**](https://www.curseforge.com/minecraft/data-packs/mesophils-cities-classic)
+### - [**Modrinth**](https://modrinth.com/datapack/mesophils-cities-classic)
+
 
 ## About the source code
 Note that the source code might not always be up to date.
